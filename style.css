@@ -1,0 +1,92 @@
+body{
+	margin: 0;
+}
+
+.header {
+    display: block;
+}
+
+.header_title {
+    margin: 0px;
+    padding: 10px;
+    background-color: #eee;
+}
+
+.container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.section {
+    display: flex;
+    flex-flow: column;
+    align-items: center; 
+}
+
+.section_title {
+    font-size: 30px;
+}
+
+.profiles {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+}
+
+.profile_icon {
+    width: 120px;
+    border-radius: 30px;    
+}
+
+.profile_name {
+    font-size: 30px;
+}
+
+.profile_position {
+    font-size: 20px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+    filter: grayscale(100%);
+    align-items: center;
+}
+
+.products {
+    display: flex;
+    flex-flow: column;
+    align-items: left; 
+}
+
+.product {
+    font-size: 15px;
+}
+
+.competitives {
+    display: flex;
+    flex-flow: column;
+    align-items: left;  
+}
+
+.competitive_account {
+    font-size: 15px;
+}
+
+.footer {
+    display: flex;
+    flex-flow: column;
+    align-items: center;    
+}
+
+.footer_right {
+    margin: 10px;
+}
