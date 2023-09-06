@@ -10,6 +10,7 @@ body{
     margin: 0px;
     padding: 10px;
     background-color: #eee;
+    font-family: 'Inter', sans-serif;
 }
 
 .container {
@@ -26,6 +27,7 @@ body{
 
 .section_title {
     font-size: 30px;
+    font-family: 'Inter', sans-serif;
 }
 
 .profiles {
@@ -37,15 +39,17 @@ body{
 
 .profile_icon {
     width: 120px;
-    border-radius: 30px;    
+    border-radius: 30px;
 }
 
 .profile_name {
     font-size: 30px;
+    font-family: 'Inter', sans-serif;
 }
 
 .profile_position {
     font-size: 20px;
+    font-family: 'Inter', sans-serif;
 }
 
 .icons {
@@ -69,6 +73,9 @@ body{
 
 .product {
     font-size: 15px;
+    font-family: 'Kosugi Maru', sans-serif;
+    letter-spacing: 0.05em;
+    line-height: 1.1em;
 }
 
 .competitives {
@@ -79,6 +86,9 @@ body{
 
 .competitive_account {
     font-size: 15px;
+    font-family: 'Kosugi Maru', sans-serif;
+    letter-spacing: 0.05em;
+    line-height: 1.1em;
 }
 
 .footer {
@@ -89,4 +99,6 @@ body{
 
 .footer_right {
     margin: 10px;
+    font-family: 'Inter', sans-serif;
+    margin-top: 100px;
 }
